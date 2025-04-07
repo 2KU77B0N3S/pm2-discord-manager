@@ -1,0 +1,16 @@
+{
+  "name": "discord-pm2-manager",
+  "version": "1.0.0",
+  "description": "A Discord bot to manage PM2 processes",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "pm2": "^5.4.2"
+  },
+  "author": "Skull_and_Bones",
+  "license": "MIT"
+}
