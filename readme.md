@@ -18,7 +18,7 @@ A Discord bot that provides a live-updating embed to monitor and manage PM2 proc
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/discord-pm2-manager.git
+   git clone https://github.com/2KU77B0N3S/discord-pm2-manager.git
    cd discord-pm2-manager
 
 2. **Install Dependencies**:
